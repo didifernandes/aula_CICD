@@ -2,7 +2,7 @@
 
 int main (){
 
-printf("olá, gitHub");
+printf("olá, GitHub Actions!\n");
 
 return 0;
 }
